@@ -18,8 +18,20 @@ Before you start, make sure you have the following software installed on your sy
 
 2. Navigate to the project directory:
 
+   ```bash
    cd your-vagrant-project
 
 3. Start the Vagrant environment:
 
+   ```bash
    vagrant up
+
+4. You can SSH into the Vagrant virtual machine using the following command:
+   
+   ```bash
+   vagrant ssh
+
+5. To stop the Vagrant environment and free up resources, run:
+
+   ```bash
+   vagrant halt

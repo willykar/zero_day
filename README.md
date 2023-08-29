@@ -1,4 +1,6 @@
-s document provides an overview of the setup and usage of the Vagrant environment for this project.
+# My Vagrant Project
+
+Welcome to my Vagrant project! This document provides an overview of the setup and usage of the Vagrant environment for this project.
 
 ## Prerequisites
 
